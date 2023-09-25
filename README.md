@@ -34,4 +34,10 @@ Tergantung pada operasi yang dipilih, program mengumpulkan masukan yang diperluk
 7. Program mencetak hasil perhitungan untuk operasi yang dipilih.
 8. Jika informasi login awal pengguna tidak cocok dengan nilai yang telah ditentukan, program mencetak "Gagal login."
 
+**UNTUK LOGIN PROGRAM**<br>
+NIM = 2309116031<br>
+NAMA = MUHAMMAD DZAKY IRAWAN<br>
+KELAS = A<br>
+ANGKATAN = 23<br>
+
 ![b6767c95-2fa1-4542-b127-17fb2fd6112e](https://github.com/mdzakyirawan/posttest_daspro1/assets/144348757/315670b4-ec60-4e6a-960c-81c19b8ddb26)
